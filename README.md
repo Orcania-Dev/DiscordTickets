@@ -5,8 +5,8 @@
 require('orcania.js')
 ```
 #
-Orcania-DiscordTickets is a bot mainly for hosting companies made with simplicity in mind ! It includes features such as ticket categories, a staff system, transcripts and many more.
-This project uses Discord.JS V13.11.0 and is actively updated
+Orcania-DiscordTickets is a bot mainly for hosting companies made with simplicity in mind ! It includes features such as ticket categories, a staff system, transcripts and many more. <br>
+This project uses Discord.JS V14.6.0 and is actively updated
  
 ## 📋 My social !
 
